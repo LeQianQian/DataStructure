@@ -1,5 +1,6 @@
 # DataStructure
 王道2023数据结构综合应用题（node.js）解法
+对应题号，可以使用Ctrl+F跳转到对应章节
 
 # 2.2.3(Page 18)
 
